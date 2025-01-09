@@ -1,0 +1,18 @@
+{
+    "webhook_url": "",
+    "use_random_messages": true,
+    "default_message": {"content": "Default Message"},
+    "delay": 0,
+    "random_messages": [
+        {"content": "Message 1"},
+        {"content": "Message 2"},
+        {"content": "Message 3"},
+        {"content": "Message 4"},
+        {"content": "Message 5"},
+        {"content": "Message 6"},
+        {"content": "Message 7"},
+        {"content": "Message 8"},
+        {"content": "Message 9"},
+        {"content": "Message 10"}
+    ]
+}
